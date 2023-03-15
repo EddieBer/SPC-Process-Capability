@@ -20,7 +20,7 @@ Development of a tool that will help the organization:<br />
 <h2>Dashboard:</h2>
 <br />
 <br />
-<a href="https://ibb.co/VSfSWwz"><img src="https://i.ibb.co/BZ0ZVnQ/Picture1.png" alt="Picture1" border="0"></a>
+<a href="https://ibb.co/VSfSWwz"><img src="https://i.ibb.co/BZ0ZVnQ/Picture1.png" alt="Picture1" border="0" height="80%"></a>
 
 <!--
  ```diff
