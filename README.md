@@ -7,14 +7,11 @@
 This project dealt with the development and implementation of process capability measurements and SPC (Statistical Process Control) into the organization's BI system (Qlik Sense in our case).
 
 <h4>Project's Goal:</h4>
-<br />
+
 Development of a tool that will help the organization:<br />
 1. reduce process variation.<br />
 2. Have controlled production processes.<br />
 
-<h3></h3>
-ָָָ*********להמשיך מכאן************
-<br />
 
 <br />
 <h2>Dashboard:</h2>
